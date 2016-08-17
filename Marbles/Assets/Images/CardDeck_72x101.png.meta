@@ -1,0 +1,1097 @@
+fileFormatVersion: 2
+guid: c187f30be8da389428da99edc96bdbee
+timeCreated: 1452112782
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CardDeck_72x101_0
+    21300002: CardDeck_72x101_1
+    21300004: CardDeck_72x101_2
+    21300006: CardDeck_72x101_3
+    21300008: CardDeck_72x101_4
+    21300010: CardDeck_72x101_5
+    21300012: CardDeck_72x101_6
+    21300014: CardDeck_72x101_7
+    21300016: CardDeck_72x101_8
+    21300018: CardDeck_72x101_9
+    21300020: CardDeck_72x101_10
+    21300022: CardDeck_72x101_11
+    21300024: CardDeck_72x101_12
+    21300026: CardDeck_72x101_13
+    21300028: CardDeck_72x101_14
+    21300030: CardDeck_72x101_15
+    21300032: CardDeck_72x101_16
+    21300034: CardDeck_72x101_17
+    21300036: CardDeck_72x101_18
+    21300038: CardDeck_72x101_19
+    21300040: CardDeck_72x101_20
+    21300042: CardDeck_72x101_21
+    21300044: CardDeck_72x101_22
+    21300046: CardDeck_72x101_23
+    21300048: CardDeck_72x101_24
+    21300050: CardDeck_72x101_25
+    21300052: CardDeck_72x101_26
+    21300054: CardDeck_72x101_27
+    21300056: CardDeck_72x101_28
+    21300058: CardDeck_72x101_29
+    21300060: CardDeck_72x101_30
+    21300062: CardDeck_72x101_31
+    21300064: CardDeck_72x101_32
+    21300066: CardDeck_72x101_33
+    21300068: CardDeck_72x101_34
+    21300070: CardDeck_72x101_35
+    21300072: CardDeck_72x101_36
+    21300074: CardDeck_72x101_37
+    21300076: CardDeck_72x101_38
+    21300078: CardDeck_72x101_39
+    21300080: CardDeck_72x101_40
+    21300082: CardDeck_72x101_41
+    21300084: CardDeck_72x101_42
+    21300086: CardDeck_72x101_43
+    21300088: CardDeck_72x101_44
+    21300090: CardDeck_72x101_45
+    21300092: CardDeck_72x101_46
+    21300094: CardDeck_72x101_47
+    21300096: CardDeck_72x101_48
+    21300098: CardDeck_72x101_49
+    21300100: CardDeck_72x101_50
+    21300102: CardDeck_72x101_51
+    21300104: CardDeck_72x101_52
+    21300106: CardDeck_72x101_53
+    21300108: CardDeck_72x101_54
+    21300110: CardDeck_72x101_55
+    21300112: CardDeck_72x101_56
+    21300114: CardDeck_72x101_57
+    21300116: CardDeck_72x101_58
+    21300118: CardDeck_72x101_59
+    21300120: CardDeck_72x101_60
+    21300122: CardDeck_72x101_61
+    21300124: CardDeck_72x101_62
+    21300126: CardDeck_72x101_63
+    21300128: CardDeck_72x101_64
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 72
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CardDeck_72x101_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_11
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_12
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_20
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_22
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_24
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_25
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_32
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_33
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_35
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_36
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_37
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_38
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_42
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_44
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_45
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_46
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_48
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_50
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_51
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_55
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_57
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_58
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_59
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_61
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_62
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_63
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    - name: CardDeck_72x101_64
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -100}
+        - {x: 72, y: -100}
+        - {x: 72, y: 0}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
